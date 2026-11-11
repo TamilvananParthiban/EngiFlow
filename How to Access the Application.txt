@@ -1,0 +1,11 @@
+How to Access the Application
+Frontend URL: http://localhost:5173
+Backend API URL: http://localhost:3001
+Default Login Credentials:
+Role	Email	Password
+Super Admin	admin@company.com	Admin@1234
+IT Manager	it.manager@company.com	Admin@1234
+Sys Admin	sysadmin@company.com	Admin@1234
+IT Engineer	engineer@company.com	Admin@1234
+IT Support	support@company.com	Admin@1234
+Viewer	       viewer@company.com       Admin@1234

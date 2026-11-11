@@ -1,0 +1,22 @@
+export declare function generateId(): string;
+export declare function generateTicketNumber(): Promise<string>;
+export declare function generateAssetCode(): Promise<string>;
+export declare function generateVendorCode(): Promise<string>;
+export declare function generateActivityCode(): Promise<string>;
+export declare function generateTaskCode(): Promise<string>;
+export declare function generateInvoiceCode(): Promise<string>;
+export declare function generatePaymentCode(): Promise<string>;
+export declare function generateFollowupCode(): Promise<string>;
+export declare function generateAMCCode(): Promise<string>;
+export declare function generatePMCode(): Promise<string>;
+export declare function generateLicenseCode(): Promise<string>;
+export declare function generateExpenseCode(): Promise<string>;
+export declare function generatePurchaseCode(): Promise<string>;
+export declare function generateRentalCode(): Promise<string>;
+export declare function generateISPCode(): Promise<string>;
+export declare function generateNetworkDeviceCode(): Promise<string>;
+export declare function generateDowntimeCode(): Promise<string>;
+export declare function generateCCTVCode(): Promise<string>;
+export declare function generateNVRCode(): Promise<string>;
+export declare function generateBackupJobCode(): Promise<string>;
+//# sourceMappingURL=idGenerator.d.ts.map
